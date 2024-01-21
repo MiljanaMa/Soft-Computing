@@ -1,5 +1,11 @@
 # Soft-Computing
 
+## Academic Context:
+* Projects for the Soft computing class, made in python
+* Faculty of Technical Sciences
+* Computer Science and Automation
+* Applied Computer Science and Informatics
+
 ## Problem 1:
 
 * Task: count how many Bulbasaur Pokémon are present in each of the images in the dataset.
