@@ -20,7 +20,7 @@
 
 ## Problem 3:
 
-* Task: recognition of Slovak words is in the data2/pictures folder.
+* Task: recognition of Slovak words.
 * Dataset: data3/ and data3/res.csv contains the correct solution for each image.
 * Evaluation: Hamming distance
 
